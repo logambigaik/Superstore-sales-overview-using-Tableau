@@ -22,6 +22,9 @@ Interactive Tableau dashboard analyzing Superstore performance across key busine
 - Bar chart: Top 5 performing regions with sales/profit duality
 - Donut chart: Market share distribution across regions
 
+
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/c2428199-8102-459f-adb6-e006621b9fae" />
+
 ---
 
 ### 2. Shipping Cost Analysis
@@ -37,6 +40,9 @@ Interactive Tableau dashboard analyzing Superstore performance across key busine
 **Trend Analysis**:
 - Line chart tracking shipping cost fluctuations quarterly
 - Reference line showing industry benchmarks
+
+
+<img width="271" alt="image" src="https://github.com/user-attachments/assets/f7a1e544-2586-489f-b409-0c57c01f7163" />
 
 ---
 
@@ -56,6 +62,8 @@ Interactive Tableau dashboard analyzing Superstore performance across key busine
 - Scatter plot of sales volume vs. profit margin
 - Highlighted points for negative margin products
 
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/061abe8b-f8a4-4a97-9d68-598dd704c4a5" />
+
 ---
 
 ### 4. Order Priority Breakdown
@@ -74,6 +82,8 @@ Interactive Tableau dashboard analyzing Superstore performance across key busine
 - Stacked bar chart showing:
   - Revenue contribution by priority
   - Associated shipping costs
+
+<img width="221" alt="image" src="https://github.com/user-attachments/assets/67384e9a-7b7f-4f99-81fc-8ca41ad06310" />
 
 ---
 
