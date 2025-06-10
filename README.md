@@ -69,10 +69,10 @@ Interactive Tableau dashboard analyzing Superstore performance across key busine
 ### 4. Order Priority Breakdown
 **Priority Dashboard**:
 - Gauge charts showing fulfillment rates for:
-  - Critical (red)
-  - High (orange)
-  - Medium (yellow)
-  - Low (green) priorities
+  - Critical 
+  - High 
+  - Medium 
+  - Low  priorities
 
 **Time Analysis**:
 - Waterfall chart: Processing time by priority level
