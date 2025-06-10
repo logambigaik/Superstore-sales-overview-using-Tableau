@@ -2,8 +2,8 @@
 
 ## Dashboard Overview
 Interactive Tableau dashboard analyzing Superstore performance across key business dimensions. The visualization provides actionable insights into regional sales, shipping efficiency, profitability, and order prioritization.
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/0fe41d8e-e72f-4ddb-82ad-6aed9de5bb3c" />
 
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/d483ed8f-2e04-421b-b126-f8dfd0c6374a" />
 
 ---
 
